@@ -1,6 +1,6 @@
 # Two stage operational amplifier design:
 
-# --->WORKING WITH ESIM ,NGSPICE AND SKY130 MODELS
+--->WORKING WITH ESIM ,NGSPICE AND SKY130 MODELS
 
 1. Go to esim click on new project ,give name file will be saved then click on open schematic window
 
@@ -141,7 +141,7 @@ plot V(vout)
 ![waveform](https://user-images.githubusercontent.com/86840635/126867256-44016f22-434f-4332-a311-b2edda9e04db.jpeg)
 
 
-# --->TASK PERFORMANCE
+--->TASK PERFORMANCE
 
 1. Introduction to stages of esim marathon 
 
